@@ -305,9 +305,9 @@ The room provides excellent practice in web application assessment, post-exploit
 
 ---
 
-LinkedIn: []
+LinkedIn: [https://www.linkedin.com/feed/update/urn:li:activity:7483470595062571008/]
 
-X: []
+X: [https://x.com/charisma1385/status/2077701906927906948]
 
 ---
 
